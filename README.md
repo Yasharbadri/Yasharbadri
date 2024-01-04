@@ -1,4 +1,9 @@
-### Hi there 👋
+
+## Hi there, I'm Ali Badri <sub> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> </sub>
+> I am very interested in Front-end development ,im just learning that and keeping the progress.
+#### <img src="https://github.com/alirezaabbasi-dev/alirezaabbasi-dev/assets/133563624/32a666e1-d214-482e-aae0-ac0be5cf4b07" width="20px" height="20px" > <sup> I’m also interested in UI-UX design. </sup>
+#### <img src="https://github.com/alirezaabbasi-dev/alirezaabbasi-dev/assets/133563624/a43768c4-1e3a-47dc-8faa-6dfd6530303a" width="20px" height="20px" > <sup> I’m currently learning Html&css and java script.</sup>
+#### <img src="https://github.com/alirezaabbasi-dev/alirezaabbasi-dev/assets/133563624/0d3a3a6e-b086-4703-8f1f-16a518617922" width="20px" height="20px" > **[Email]** <sup> to contact me. </sup>
 
 <!--
 **Yasharbadri/Yasharbadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
